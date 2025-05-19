@@ -67,4 +67,7 @@ console.log(languages.concat(Languages));
 console.log(Languages.slice(1)); //Cắt từ vị trí đầu đến hết, trả lại mảng đã cắt
 console.log(languages.slice(1, 2)); //Vị trí đầu và vị trí cuối, trả lại mảng đã cắt
 console.log(Languages.slice(-3, -1)); //Cắt ngược
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8af7db8ec7f8577295fac7cb9c630f7d3db1ca4f
